@@ -1,5 +1,4 @@
-# 🚀 Cloud-Native Production Dashboard (DevOps Project - Phase 1)
-
+# 🚀 Cloud-Native Production Dashboard (DevOps Project)
 A containerized Flask-based web application that simulates a live Kubernetes production node dashboard. This is the first phase of building an automated GitOps deployment pipeline.
 
 ## 🎨 Color Palette Used
