@@ -19,4 +19,5 @@ A containerized Flask-based web application that simulates a live Kubernetes pro
 ### Prerequisites
 - Docker Desktop installed and running.
 
-
+##Screenshorts
+https://github.com/cit-24-01-0532-cyber/Cloud-Native-Production-Dashboard/blob/main/Screenshot%202026-05-31%20165849.png
